@@ -10,7 +10,6 @@ def main():
     </div>
     """, unsafe_allow_html=True)
 
-    # HTML 코드를 사용하여 iframe을 임베딩
     st.markdown("""
     <iframe src="https://www.chatbase.co/chatbot-iframe/6gHc7VLgwpf2oti8pG28X" width="100%" style="height: 700px; border-radius: 5px;" frameborder="0"></iframe>
     """, unsafe_allow_html=True)
