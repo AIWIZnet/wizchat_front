@@ -18,7 +18,7 @@ def main():
     st.markdown("""
     <div style='background-color: #f2f2f2; padding: 10px; border-radius: 5px;'>
         <h2 style='font-size: 24px; color: #333;'>🔗 수정된 내용은 아래 링크로 확인하세요</h2>
-        <a href='https://wiznetio-my.sharepoint.com/:x:/g/personal/simon_wiznet_io/EWucOi1dSLdMqQcGB5SmMlsBIkVjSz_PQJDUmob05SgVMA?e=tuygrg' style='font-size: 18px; color: #007bff;'>SharePoint 링크로 이동</a>
+        <a href='https://wiznetio-my.sharepoint.com/:x:/g/personal/simon_wiznet_io/EWucOi1dSLdMqQcGB5SmMlsBIkVjSz_PQJDUmob05SgVMA?e=tuygrg' style='font-size: 18px; color: #007bff;'>엑셀로 이동</a>
     </div>
     """, unsafe_allow_html=True)
 
